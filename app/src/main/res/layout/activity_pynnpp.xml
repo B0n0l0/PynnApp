@@ -12,8 +12,8 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Button"
-        android:id="@+id/button"
+        android:text="check barcode"
+        android:id="@+id/buttonBarcode"
         android:layout_marginTop="136dp"
         android:clickable="true"
         android:onClick="setContentView"
