@@ -29,7 +29,7 @@ public class Barcode extends Activity{
     public void onCreate(Bundle savedInstanceState)
     {
 
-        setContentView(R.layout.activity_barcode);
+        setContentView(R.layout.activity_pynnpp);
         setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 
         //getActionBar().hide();
